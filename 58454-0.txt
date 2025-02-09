@@ -1,37 +1,7 @@
-The Project Gutenberg EBook of Reminiscences of a Workhouse Medical Officer, by 
-Joseph Rogers
-
-This eBook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll
-have to check the laws of the country where you are located before using
-this ebook.
+*** START OF THE PROJECT GUTENBERG EBOOK 58454 ***
 
 
 
-Title: Reminiscences of a Workhouse Medical Officer
-
-Author: Joseph Rogers
-
-Editor: Thorold Rogers
-
-Release Date: December 11, 2018 [EBook #58454]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK A WORKHOUSE MEDICAL OFFICER ***
-
-
-
-
-Produced by deaurider, Martin Pettit and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive)
 
 
 
@@ -213,7 +183,7 @@ constrained to give their services for nominal sums in order to get a
 status in their calling, it seemed more practical to get them better pay
 and not to give offence. In the end this was part of the result of my
 brother's labours. He was able to assert, towards the close of his
-active career, that he had added £18,000 a year to the incomes of the
+active career, that he had added Â£18,000 a year to the incomes of the
 Poor Law medical officers in the Metropolis, and to allege that the
 change, with others, had saved ten times that amount in the Metropolitan
 rates. I am convinced--having once been a Guardian of the Poor in the
@@ -264,7 +234,7 @@ supernumerary medical officer in the district. Cholera had a very
 serious effect on his private practice, as he states himself, and nearly
 twelve years after he had taken up his abode in London, he concluded to
 become a candidate for the function of medical officer to the Strand
-Workhouse. He was to receive a stipend of £50 a year, and find all
+Workhouse. He was to receive a stipend of Â£50 a year, and find all
 medicines for the sick. It may be doubted whether he knew what he was
 undertaking: certainly they who appointed him and the officials who
 confirmed his appointment at the Poor Law Board had no conception of
@@ -323,7 +293,7 @@ to discuss the situation. It was at first suggested to call a public
 meeting; but my brother pointed out that even if the meeting were a
 success its effect would be ephemeral. It was determined, therefore, to
 create an association under the title of the Workhouse Infirmaries'
-Association, Mr. Storr offering to find £100 towards its preliminary
+Association, Mr. Storr offering to find Â£100 towards its preliminary
 expenses. But his generous offer was not needed. As soon as it was
 known that the Association was in process of formation, names and money
 poured in upon the scheme. New evidence about the Strand Union came out,
@@ -588,7 +558,7 @@ or the matron, or both.
 Just outside the male wards of the House, at the upper end of the yard,
 there were two upright posts and a cross-bar. On this bar were suspended
 the carpets taken in to beat by the so-called able-bodied inmates, from
-whose labour the Guardians derived a clear income of £400 a year. In
+whose labour the Guardians derived a clear income of Â£400 a year. In
 despite of the continued noise and dust caused by this beating, the
 Guardians persisted in carrying it on for ten of the twelve years that I
 was there. The noise was so great that it effectually deprived the sick
@@ -628,7 +598,7 @@ on somehow was all that was looked for by these truly wretched women.
 The master of the House, a certain George Catch, since deceased, had
 been a common policeman in Clare Market, where he had made himself
 useful to the Chairman of the Board, who was the proprietor of an
-_à-la-mode_ beef shop in that locality. Through this Chairman's
+_Ã -la-mode_ beef shop in that locality. Through this Chairman's
 influence he became the porter of the Workhouse, and the master falling
 sick, he had performed his duty for him. The illness ending fatally,
 through the same influence Catch was promoted to the vacant office,
@@ -659,9 +629,9 @@ with the so-called discretion of the Guardians, however much their
 regulations were disregarded.
 
 I have stated that the Chairman of the Board was the proprietor of an
-_à-la-mode_ beef shop. During my first year of office this dignitary
+_Ã -la-mode_ beef shop. During my first year of office this dignitary
 would often come to the House on Sunday morning dressed in the dirty,
-greasy jacket in which he had been serving _à-la-mode_ beef the night
+greasy jacket in which he had been serving _Ã -la-mode_ beef the night
 before, and unshaven and unshorn, he would go into the chapel with the
 pauper inmates, and afterwards go to the Board-room, and have breakfast
 with the master and matron. Of course, between the three, there was an
@@ -771,7 +741,7 @@ It was obvious that one of the first points to secure was the removal of
 the laundry before referred to, situated in the cellar beneath the
 dining hall. The Guardians having assented to my suggestions, a contract
 was entered into with the builder to put up a laundry in the back yard.
-The structure was to cost some £400. On proceeding to dig out the
+The structure was to cost some Â£400. On proceeding to dig out the
 foundation, the workmen came on a number of skeletons, the yard having
 been originally the poor burial ground of St. Paul's, Covent Garden,
 for which parish the Workhouse, &c., had been built, and had been rented
@@ -962,9 +932,9 @@ Here let me remark that, although the majority of the Strand Board were
 wholly unfitted for any administrative duties, yet it would be
 ungrateful not to state that there were several kindly-disposed persons
 among them. They were generally, however, outvoted, though occasionally
-their suggestions for a milder and more generous _régime_ prevailed.
+their suggestions for a milder and more generous _rÃ©gime_ prevailed.
 Catch had hardly left the house when it was proposed to increase my
-stipend, at first to £75, ultimately to £100 a year; and I was also
+stipend, at first to Â£75, ultimately to Â£100 a year; and I was also
 entrusted by the Board with the duty of certifying as to the lunacy of
 the inmates who were admittedly insane.
 
@@ -1077,7 +1047,7 @@ all similar institutions, and which the powers that were in those days
 at Whitehall made no genuine effort to change.
 
 Shortly after the collapse of his friend Catch, the proprietor of the
-_à-la-mode_ beef shop ceased to be a Guardian, and a wholesale
+_Ã -la-mode_ beef shop ceased to be a Guardian, and a wholesale
 fruit-dealer in Covent Garden reigned in his stead. He was a far less
 satisfactory Chairman than his predecessor, as all thoughts, words, and
 deeds were actuated by the consideration of his personal and private
@@ -1209,7 +1179,7 @@ When the letter was read at the Strand Board, a suggestion was made
 that I should be offered an increase of my stipend and be required to
 purchase the medicines myself. This I declined. Ultimately it was
 arranged that I should be allowed to order drugs of a wholesale chemist,
-but only to the extent of £27 a year: anything beyond that I was
+but only to the extent of Â£27 a year: anything beyond that I was
 expected to pay for myself.
 
 About this time (1862) the matron informed me that on the previous day a
@@ -1250,9 +1220,9 @@ lungs, and remained for many weeks in the greatest jeopardy. Ultimately,
 she got better, when I sent her to a Convalescent Home in Hertfordshire.
 She was so patient and grateful that I wrote an account of her sad
 story, which was published in _The Morning Star_. It evoked donations
-amounting to £25. After buying her some additional clothing, I paid her
+amounting to Â£25. After buying her some additional clothing, I paid her
 journey for self and child to Canterbury (the baby had died), handing
-her as she went away some £20. The Board, at my request, allowed her
+her as she went away some Â£20. The Board, at my request, allowed her
 outdoor relief for a twelvemonth. Some years after, I happened to be in
 Canterbury, when I found her out. She had been in the same situation
 some seven years. She had supported herself and child, and had no
@@ -1353,7 +1323,7 @@ with him. No objection being made, he accompanied us. I was somewhat
 surprised at the bearing of this so-called secretary, and still more so
 at his conduct in the House, when we went through the wards. I thought
 he was a very intelligent gentleman, and wondered at him occupying the
-position of secretary to Mr. Williams, at say, £1 a week. I satisfied
+position of secretary to Mr. Williams, at say, Â£1 a week. I satisfied
 Mr. Williams that I could not continue to take in his numerous waifs and
 strays, and on leaving, his companion parted from me with many
 expressions of thanks for my courtesy in allowing him to accompany me. I
@@ -1405,7 +1375,7 @@ She had been living at Chicago with her two brothers, when they received
 a letter stating that their mother in Germany was very ill, and begged
 that her daughter would come home. She started immediately, but on
 arriving at her native town found that her mother was dead. She
-thereupon sold all the effects, and with upwards of £100 started back
+thereupon sold all the effects, and with upwards of Â£100 started back
 again for Chicago. She passed through London to Liverpool to take
 passage for New York, but the machinery of the steamer breaking down
 when two days out, the captain returned for repairs. She had made the
@@ -1413,14 +1383,14 @@ acquaintance of a young Frenchman on board, who finding she had money,
 made love to her, and induced her to go back to London and become his
 wife. After living with her until all the money was gone, he deserted
 her, and being without friends, she had to come into the House. My
-letter appearing in _The Times_, some £45 was sent me, which sufficed to
+letter appearing in _The Times_, some Â£45 was sent me, which sufficed to
 enable me to send her and her child to her brother in Chicago. I
 provided her with an outfit, and arranged with the captain of the
 steamer to take charge of her, and send one of his trustworthy officers
 to see her to the station in New York for Chicago, and parting with her
 to put into her hands the balance remaining. Some months afterwards I
 had a letter from the captain, stating that he had carried out my
-request, and had finally given her the £25 or thereabouts. There was
+request, and had finally given her the Â£25 or thereabouts. There was
 every reason to believe that one of the subscribers was Her Majesty the
 Queen, though it was not so distinctly stated in a letter I received
 from a gentleman connected with the Court.
@@ -1502,7 +1472,7 @@ we should call a public meeting and denounce the system, when I pointed
 out that if we only did that the agitation would soon come to an end,
 and therefore it would be better to form an Association for the purpose
 of more thoroughly enlightening the public. My suggestion was adopted.
-Mr. John Storr generously offered to put down £100 to float the
+Mr. John Storr generously offered to put down Â£100 to float the
 Association. He also offered to become its treasurer, and to give us the
 free use of one of his offices, in which the meetings of the Association
 could be held. This meeting took place on a Thursday evening, and as
@@ -2147,7 +2117,7 @@ medicines, that no hurry would occur in the establishment of Poor Law
 dispensaries in the Metropolis, which was only an amplification of my
 original suggestion. And that actually happened; and it was only by our
 constantly pegging away, that at last the Board commenced to establish
-them. But whilst no _bonâ fide_ effort was made to carry out this
+them. But whilst no _bonÃ¢ fide_ effort was made to carry out this
 portion of the Metropolitan Poor Act, an absolute epidemic took place as
 regards the building of asylum hospitals, district hospitals for fever
 and infectious diseases, asylums for epileptics, idiots and imbeciles,
@@ -2241,7 +2211,7 @@ feeling that he could make nothing of him, he told him peremptorily to
 stand down, which he did in such a comical way as convulsed the court
 with laughter. Unfortunately Mr. Shaen failed to justify several of the
 libels, and the jury, after twelve days' trial, gave a verdict in favour
-of Catch for £600--an amount which the judge said was excessive, and for
+of Catch for Â£600--an amount which the judge said was excessive, and for
 which he refused to certify, thereby affording Mr. Shaen the opportunity
 for asking for a fresh trial. Subsequently a compromise was effected at
 the instance of the Lord Chief Justice. In summing up the case to the
@@ -2285,7 +2255,7 @@ tender being from an eminent firm that had acquired a great reputation
 for the buildings it had put up in various parts of town, as well as in
 the country. Their tender was rejected, and the contract given to a
 small builder, resident in St. Paul's, Covent Garden, whose estimate was
-some £2,000 higher. It was stated at the time that after the contract
+some Â£2,000 higher. It was stated at the time that after the contract
 had been signed the members of the Board were invited to a dinner given
 by the lucky contractor. The large firm that competed for it, feeling
 that they had been improperly treated, got the question raised, and the
@@ -2578,7 +2548,7 @@ enlargement of the old Workhouse of St. James's, commenced at the time
 when the Westminster Union was formed, were complete, and that Mr.
 French, who had been the medical officer of the workhouse and parish of
 St. James's for upwards of forty years, was about to retire on a
-superannuation allowance of £200 a year. I was told that the Chairman of
+superannuation allowance of Â£200 a year. I was told that the Chairman of
 the Board, a Mr. Bonthron, a Scotch baker living in Regent Street, had
 selected a fellow Scotchman, one Dr. S., as Mr. French's successor, and
 as Mr. Bonthron claimed to be omnipotent at the Board, this gentleman's
@@ -2618,7 +2588,7 @@ visit from Dr. M., who called to inform me that he had passed his
 examination at the College of Surgeons the night before, and now asked
 me to retire in his favour. On my declining to do as he wished, he said
 it was very hard I would not, as he had incurred an expense of upwards
-of £60 to get the diploma. Prior to the election my friends entered into
+of Â£60 to get the diploma. Prior to the election my friends entered into
 a compact with his supporters to the effect that if I was in a minority
 on the show of hands my name was to be withdrawn, when they would
 support him, but if I was in the majority his friends would support me.
@@ -2707,7 +2677,7 @@ me into the centre of the ward, and giving me a friendly nudge of the
 ribs, laughingly said, "What do you imagine is Number Two? Why it is
 peppermint-water coloured; I never give any physic." Feeling by this
 time somewhat disgusted by these remarkable confessions, seeing that his
-stipend was £350 a year, out of which it was arranged by the Board that
+stipend was Â£350 a year, out of which it was arranged by the Board that
 he should supply these medicines. I dropped his company, and went on
 examining the people independently. Mr. French speedily buttonholed my
 young companion, and went on looking at the patients with him. At last
@@ -2803,7 +2773,7 @@ workhouses, with their limited incomes, should succeed in leaving at
 their deaths so much money, as many of them do? I was informed that the
 old master who preceded Catch at the Strand Union had gone there after
 failing in business as a tradesman in Covent Garden, that he held office
-as master twelve years, and when he died that he left some £2,000.
+as master twelve years, and when he died that he left some Â£2,000.
 
 I found on inspection of the specially infirm, paralytic, and wholly
 infirm, that the women were located in wards 16, 17, and 18, and on
@@ -3096,9 +3066,9 @@ honest, patient, and grateful poor man. Sir Charles asked him how long
 he had been afflicted, and he answered, "Some twenty years." Then I
 said, "This poor fellow cannot get downstairs; he has not seen the
 streets for all these years, but he is always happy and cheerful." Sir
-Charles kindly left with me £1 to pay his cab fare, so that he might
+Charles kindly left with me Â£1 to pay his cab fare, so that he might
 have the chance of seeing them once again. As I had to send two people
-with him each time the £1 soon went. His enjoyment of this treat in his
+with him each time the Â£1 soon went. His enjoyment of this treat in his
 daily dull, routine life was, I was informed, most pleasing to witness.
 
 There were several other very interesting persons I found on both sides
@@ -3124,7 +3094,7 @@ long time, and was surprised and hurt to think that he should have
 drifted to a workhouse infirmary. On inquiring into the cause of his
 becoming an inmate of the House, for I always thought he was well-to-do,
 as he dressed exceedingly well, I learned that he had lived with a lady
-who was an _employé_ at a French milliner's in Regent Street, that she
+who was an _employÃ©_ at a French milliner's in Regent Street, that she
 was much younger than he was, and that he had given to her all his
 money, which she, in preparation for possible consequences, had put in
 the Funds, but in her own name only. Unfortunately for him she was taken
@@ -3153,9 +3123,9 @@ elected to come to England, where he lived since 1816. He died at the
 age of ninety-five, retaining his faculties to the last. After his death
 I raised a fund to bury him, by writing a letter to _The Times_, in
 which I gave his history, heading my letter, "A Relic of the Grand
-Armée," and asking any friends of the first Napoleon to help me in
+ArmÃ©e," and asking any friends of the first Napoleon to help me in
 burying him in some other place than a pauper's grave. My appeal having
-brought me £25, the Empress Eugenie being one of the subscribers, he was
+brought me Â£25, the Empress Eugenie being one of the subscribers, he was
 buried at the Catholic Cemetery at Kensal Green. There were two
 seamstresses who lived in Gilbert Street, Oxford Street, who were his
 countrywomen and his sole visitors, with the exception of the Catholic
@@ -3460,7 +3430,7 @@ husband's condition was irremediable, I pleaded that monies should be
 sent me to enable me to put the wife into some way of earning her
 livelihood. The letter duly appeared, and caused a great deal of
 sensation, many subsequent letters from gentlemen interested in the
-question of lunacy being published. As a result the sum of £85 was
+question of lunacy being published. As a result the sum of Â£85 was
 subscribed for the wife, and was sent to me.
 
 It was a puzzle to me to know what to do with the money, which was not
@@ -3519,12 +3489,12 @@ quite able to keep his wife in a private asylum, whereupon it was
 ordered that the husband should take her out. After her return home her
 husband asked me to see her; he could not live with her, her conduct was
 in every way so objectionable. I saw her again, certified that she was
-of unsound mind, and she was sent to St. Luke's, and her husband paid £1
+of unsound mind, and she was sent to St. Luke's, and her husband paid Â£1
 a week for her maintenance therein. Getting tired of this, for he was a
 most penurious person, he took her out. Sometime after he was taken ill
-and died, leaving upwards of £4,000. Dying intestate, his property was
+and died, leaving upwards of Â£4,000. Dying intestate, his property was
 divided between two brothers and the widow, her share, the third, being
-upwards of £1,500. The solicitor who wound up the estate, recognizing
+upwards of Â£1,500. The solicitor who wound up the estate, recognizing
 her mental condition, tried to induce her to let him invest the money in
 some security, but she refused. She would have her money paid over to
 her absolutely. This was in November. By the middle of the following
@@ -3534,25 +3504,25 @@ caused her ejection from one lodging after another, the relieving
 officer was again called in, and removed this wretched woman to the
 Workhouse insane ward. She brought with her a large amount of property
 which was not convertible into cash. Now, it may be asked, How was the
-large sum of £1,500 got rid of in but little over eight months? The
+large sum of Â£1,500 got rid of in but little over eight months? The
 explanation is a sad one. The first thing this poor woman did was to buy
-some £24 worth of plants in pots, which were taken to a furnished room
+some Â£24 worth of plants in pots, which were taken to a furnished room
 she had hired in Gerrard Street, Soho. She never attempted to attend to
 them in any way, and, therefore, in a very short time they were all
 dead. She then sent to a well-known drapery business in Regent Street to
 buy some clothes. Before she left the shop the person in the department
-she went to had induced her to buy some £300 worth of personal clothing,
+she went to had induced her to buy some Â£300 worth of personal clothing,
 which was all sent to this single room in Gerrard Street. She also went
 to a pianoforte manufacturer in Regent Street, and purchased a sixty
 guinea piano, at the same time being absolutely ignorant of music; and
 if any one had taken much trouble they must have recognized by her
 appearance her mental deficiency. About two months after she first
-purchased at this draper's shop, the shopwoman who had sold her £300
+purchased at this draper's shop, the shopwoman who had sold her Â£300
 worth of clothing, called on her in Gerrard Street, and, although this
 room contained the dead flowers and unopened boxes of the first
-purchase, she induced her to buy £250 worth more, thus making a total
-of £550 expended by a poor insane woman. The Rector of St. Anne's, Soho,
-informed me that she regularly attended the sacrament, and always put £1
+purchase, she induced her to buy Â£250 worth more, thus making a total
+of Â£550 expended by a poor insane woman. The Rector of St. Anne's, Soho,
+informed me that she regularly attended the sacrament, and always put Â£1
 in the plate in new gold. What made the conduct of the shopkeeper of the
 firm in Regent Street the more inexcusable was that at the time she
 called on her the woman was in such a state, in consequence of her dirty
@@ -4058,7 +4028,7 @@ earnest hope that, as it was not their fault, he would not be so severe.
 when they are supplied, and if every person needing them is not
 furnished with them before the end of the week, I shall carry out what I
 have said." By the following Wednesday all my patients were provided
-with them. At his death the master left some £4,000, notwithstanding he
+with them. At his death the master left some Â£4,000, notwithstanding he
 had a large and expensive family. After his decease I learned that he
 had signed a quantity of blank orders for my attendance, and had given
 them to the porter with the instructions that if any person was admitted
@@ -4614,7 +4584,7 @@ the above movement in my support, and also saw that my friends in the
 profession were organizing a testimonial in my favour, subscriptions to
 which came from all parts of the kingdom. So that, instead of injuring
 me, the action of the Guardians secured me three months' holiday, a
-testimonial worth £200, and gave me that leisure which enabled me to
+testimonial worth Â£200, and gave me that leisure which enabled me to
 work up a party that some six months after drove the Chairman and his
 followers from office.
 
@@ -5050,7 +5020,7 @@ ratepayers. The Metropolitan Poor Act of 1867 was largely brought about
 by his untiring zeal. From that what good has not flowed? The supply of
 not expensive medicines only, but all medicines, by the Guardians. The
 dispensary system, leading to a very large increase, probably not less
-than £15,000 a year to the Metropolitan medical officers. Then that
+than Â£15,000 a year to the Metropolitan medical officers. Then that
 great boon, the Superannuation Act, is another monument of Dr. Rogers'
 energy. I do not wish to undervalue the labours of Dr. Brady, and our
 other friends in and out of the House of Commons; but Dr. Brady himself
@@ -5295,7 +5265,7 @@ world had a more kindly heart.
 
 The Chairman, in making the presentation to Dr. Rogers of three
 handsome pieces of silver plate in a case, together with a cheque for
-£150, said he really ought to have the assistance of a lady now, for she
+Â£150, said he really ought to have the assistance of a lady now, for she
 would so much more gracefully, in their name, present that testimonial
 to Dr. Rogers. The inscription ran: "Presented to Dr. Joseph Rogers, in
 recognition of his continuous effort in the cause of sanitary and Poor
@@ -5607,365 +5577,4 @@ UNWIN BROTHERS, THE GRESHAM PRESS, CHILWORTH AND LONDON.
 End of the Project Gutenberg EBook of Reminiscences of a Workhouse Medical
 Officer, by Joseph Rogers
 
-*** END OF THIS PROJECT GUTENBERG EBOOK A WORKHOUSE MEDICAL OFFICER ***
-
-***** This file should be named 58454-8.txt or 58454-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/8/4/5/58454/
-
-Produced by deaurider, Martin Pettit and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive)
-
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org Section 3. Information about the Project Gutenberg
-Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 58454 ***
